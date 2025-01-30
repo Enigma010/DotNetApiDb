@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Db
+namespace DotNetApiDb
 {
     /// <summary>
     /// Entity interface, allows database to be able to find the ID

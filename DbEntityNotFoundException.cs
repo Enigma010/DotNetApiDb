@@ -1,4 +1,4 @@
-﻿namespace Db
+﻿namespace DotNetApiDb
 {
     /// <summary>
     /// Exception thrown if the entity cannot be found in the database

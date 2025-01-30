@@ -3,7 +3,7 @@ using System.Data;
 using System.Linq.Expressions;
 using DotNetApiUnitOfWork;
 
-namespace Db
+namespace DotNetApiDb
 {
     /// <summary>
     /// Interface to a database, supports CRUD operations, used so that different database can be

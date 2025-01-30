@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Db
+namespace DotNetApiDb
 {
     public class Paging
     {
